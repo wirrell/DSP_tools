@@ -13,7 +13,7 @@ Level Fusion for Multimodel Biometric Recognition (2016)
 
 ### Orthogonal Matching Pursuit of images
 
-omp.py
+	omp.py
 
 Based on: 
 
